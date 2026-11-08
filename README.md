@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Arboreto** when handling a related task. I
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added resources: `references/basic_inference.md`, `references/algorithms.md`, `references/distributed_computing.md`, and `scripts/basic_grn_inference.py`. The script accepts an expression TSV, output path, optional TF list, algorithm, and seed.
